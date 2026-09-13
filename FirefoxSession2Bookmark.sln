@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirefoxSession2Bookmark", "FirefoxSession2Bookmark.csproj", "{7D73C6EC-8408-4869-8A4E-9A638F3A7789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D73C6EC-8408-4869-8A4E-9A638F3A7789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D73C6EC-8408-4869-8A4E-9A638F3A7789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D73C6EC-8408-4869-8A4E-9A638F3A7789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D73C6EC-8408-4869-8A4E-9A638F3A7789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA3CD34-B9B5-4DBF-8C21-ED43BDA59EF1}
+	EndGlobalSection
+EndGlobal
