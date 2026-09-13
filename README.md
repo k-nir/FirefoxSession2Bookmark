@@ -2,7 +2,7 @@
 Convert uncompressed Firefox `.jsonlz4` sessionstore backups to bookmark file.
 
 ## Usage
-Firefox store session information of previous run in `.jsonlz4` files, typically located in `%AppData%\Roaming\Mozilla\Firefox\Profiles\<profile>\sessionstore-backups\` on Windows.
+Firefox stores session information of previous runs in `.jsonlz4` files, typically located in `%AppData%\Roaming\Mozilla\Firefox\Profiles\<profile>\sessionstore-backups\` on Windows.
 
 First uncompress the `.jsonlz4` file to `.json` using tools like [mozlz4](https://github.com/jusw85/mozlz4). Then run
 ```
