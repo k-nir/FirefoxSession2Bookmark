@@ -12,7 +12,7 @@ to generate bookmark file (which should be a `.html` file). Once imported into F
 
 ## Features
 1. Grouped tabs are  organized into subfolders.
-2. Closed tabs recorded in the `.jsonlz4` are not included in the conversion.
+2. Closed tabs recorded in the `.jsonlz4` are *not* included in the conversion.
 
 ## Notes
-This project also serves as a sample for reading large json files using UTF8JsonReader.
+This project also serves as a sample for reading large json files using `UTF8JsonReader`.
