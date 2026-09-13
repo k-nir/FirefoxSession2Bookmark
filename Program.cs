@@ -2,7 +2,7 @@
 using System.Text.Json;
 using System.Web;
 
-namespace FirefoxSession2Sql
+namespace FirefoxSession2Bookmark
 {
     internal class Program
     {

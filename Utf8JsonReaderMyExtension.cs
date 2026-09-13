@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace FirefoxSession2Sql
+namespace FirefoxSession2Bookmark
 {
     internal static class Utf8JsonReaderMyExtension
     {
